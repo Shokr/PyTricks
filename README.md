@@ -1,5 +1,5 @@
 # PyTricks :snake:
- Collection of less popular features and tricks for Python.
+> Collection of less popular features and tricks for Python.
 
 ## Tricks
 
@@ -12,6 +12,8 @@
 - [Trick [7]: Flatten list of lists](https://github.com/Shokr/PyTricks/blob/master/Flatten%20list%20of%20lists.py)
 - [Trick [8]: Checking if two words are anagrams](https://github.com/Shokr/PyTricks/blob/master/Checking%20if%20two%20words%20are%20anagrams.py)
 - [Trick [9]: Take a string input](https://github.com/Shokr/PyTricks/blob/master/Take%20a%20string%20input.py)
+- [Trick [10]: List Tricks 101](https://github.com/Shokr/PyTricks/blob/master/list_tricks_101.py)
+- [Trick [11]: String Tricks 101](https://git.io/fxRQR)
 
 
 :octocat: PyTricks repo <https://github.com/Shokr/PyTricks>

@@ -19,9 +19,9 @@ print(" ")
 print("reversied string: ")
 print(a[::-1])
 
-#print("Reverse a String with loop")
-#for char in reversed(a):
-#    print(char)
+print("Reverse a String with loop")
+for char in reversed(a):
+    print(char)
 
 
 print("Reverse s integer through type Conv & sliceing")
@@ -47,3 +47,10 @@ d = {'a': 1,'b': 2}
 print(d.get('c',3))
 print(d)
 
+"""pythonic way of value swap"""
+
+a, b = "love", "peace"
+print(a, b)
+
+a, b = b, a
+print(a, b)
