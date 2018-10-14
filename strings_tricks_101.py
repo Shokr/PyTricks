@@ -1,6 +1,8 @@
 print("##########Checking if two words are anagrams##################")
 
 # Checking if two words are anagrams
+from collections import Counter
+
 str1 = "shokr"
 str2 = "shokr"
 
@@ -10,8 +12,11 @@ print("#################Reverse a String##############")
 # Reverse a String
 
 a = 'vivalaegyptehishokrbyagoodluk'
-
+print("original string: ", a)
+print (" ")
 print("Reverse a String with special case of slice step")
+print(" ")
+print("reversied string: ")
 print(a[::-1])
 
 #print("Reverse a String with loop")
