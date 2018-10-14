@@ -14,6 +14,7 @@
 - [Trick [9]: Take a string input](https://github.com/Shokr/PyTricks/blob/master/Take%20a%20string%20input.py)
 - [Trick [10]: List Tricks 101](https://github.com/Shokr/PyTricks/blob/master/list_tricks_101.py)
 - [Trick [11]: String Tricks 101](https://git.io/fxRQR)
-
+- [Trick [11]: Mix Tricks]()
+- [Trick [12]: Mix Tricks Python 2.7 Models]()
 
 :octocat: PyTricks repo <https://github.com/Shokr/PyTricks>
