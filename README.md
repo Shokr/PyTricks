@@ -16,5 +16,7 @@
 - [Trick [11]: String Tricks 101](https://git.io/fxRQR)
 - [Trick [11]: Mix Tricks]()
 - [Trick [12]: Mix Tricks Python 2.7 Models]()
+- Trick [13]: itertools.permutations() generates permutations.
+- Trick [14]: Finding the most common elements in an iterable.
 
 :octocat: PyTricks repo <https://github.com/Shokr/PyTricks>
